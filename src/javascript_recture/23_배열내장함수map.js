@@ -4,7 +4,7 @@ const array = [1,2,3,4,5,6,7,8];
 const squared = array.map( n => n * n);
 console.log(squared);
 
-const sdf = 1;
+const sdfs = 1;
 
 const items = [
     {
